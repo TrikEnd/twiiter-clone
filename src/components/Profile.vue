@@ -125,13 +125,13 @@
         <a href="#" class="flex-shrink-0 group block">
             <div class="flex items-center">
                 <div>
-                    <img class="inline-block h-10 w-10 rounded-full" src="elon.jpg" alt="">
+                    <img class="inline-block h-10 w-10 rounded-full" src="Profile.png" alt="">
                 </div>
                 <div class="ml-3">
                     <p class="text-base leading-6 font-medium text-black">
-                        Elon Musk
+                        PatrikEM
                         <span class="text-sm leading-5 font-medium text-gray-400 group-hover:text-gray-300 transition ease-in-out duration-150">
-                            @eelon  . 16 April
+                            @TrikEnd  . 16 April
                         </span>
                     </p>
                 </div>
@@ -198,13 +198,13 @@
         <a href="#" class="flex-shrink-0 group block">
             <div class="flex items-center">
                 <div>
-                    <img class="inline-block h-10 w-10 rounded-full" src="elon.jpg" alt="">
+                    <img class="inline-block h-10 w-10 rounded-full" src="profile.png" alt="">
                 </div>
                 <div class="ml-3">
                     <p class="text-base leading-6 font-medium text-black">
-                        Elon Musk
+                        PatrikEM
                         <span class="text-sm leading-5 font-medium text-gray-400 group-hover:text-gray-300 transition ease-in-out duration-150">
-                            @eelon  . 16 April
+                            @TrikEnd  . 16 April
                         </span>
                     </p>
                 </div>

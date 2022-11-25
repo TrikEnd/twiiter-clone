@@ -101,7 +101,7 @@
             <!-- User basic-->
             <div>
                 <h2 class="text-xl leading-6 font-bold text-black">Elon Musk</h2>
-                <p class="text-sm leading-5 font-medium text-gray-600">@eelon</p>
+                <p class="text-sm leading-5 font-medium text-gray-600">@teslaBoy</p>
             </div>
             <!-- Description and others -->
             <div class="mt-3">
@@ -131,7 +131,7 @@
                     <p class="text-base leading-6 font-medium text-black">
                         Elon Musk
                         <span class="text-sm leading-5 font-medium text-gray-400 group-hover:text-gray-300 transition ease-in-out duration-150">
-                            @eelon  . 16 April
+                            @teslaBoy  . 16 April
                         </span>
                     </p>
                 </div>
@@ -202,7 +202,7 @@
                     <p class="text-base leading-6 font-medium text-black">
                         Elon Musk
                         <span class="text-sm leading-5 font-medium text-gray-400 group-hover:text-gray-300 transition ease-in-out duration-150">
-                            @eelon  . 16 April
+                            @teslaBoy  . 16 April
                         </span>
                     </p>
                 </div>
